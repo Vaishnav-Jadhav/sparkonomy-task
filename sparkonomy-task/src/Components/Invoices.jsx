@@ -4,6 +4,7 @@ const statusStyles = {
   Unpaid: "bg-gray-100 text-gray-600",
   Disputed: "bg-red-100 text-red-600",
   Paid: "bg-green-100 text-green-600",
+  "Partially Paid": "bg-yellow-100 text-yellow-700",
   Overdue: "bg-pink-100 text-pink-600",
   Awaited: "bg-yellow-50 text-yellow-500",
   Draft: "bg-gray-200 text-gray-500",
